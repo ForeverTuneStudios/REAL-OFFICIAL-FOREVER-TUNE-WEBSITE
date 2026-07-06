@@ -1,3 +1,0 @@
-{
-  "buildCommand": "npx --yes drizzle-kit push && npm run build"
-}
